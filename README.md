@@ -436,3 +436,20 @@ else:
     print("Length of the string =", len(string))
 ```
 ----------------------------------------
+
+# Question 24
+
+### **Question:**
+
+> ***Write a program to Print Natural Numbers from 1 to N.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+N = int(input("Please Enter any Number: "))
+for i in range(1, N+1):
+    print (i)
+```
+----------------------------------------
