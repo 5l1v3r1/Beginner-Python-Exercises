@@ -548,3 +548,20 @@ list1.remove("ball")
 print(list1)
 ```
 ----------------------------------------
+
+# Question 30
+
+### **Question:**
+
+> ***Write a program To print the number of elements in an array.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+list1 = ["pen", "book", "ball"]
+a = len(list1)
+print(a)
+```
+----------------------------------------
