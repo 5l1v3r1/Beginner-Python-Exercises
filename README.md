@@ -102,7 +102,7 @@ print("You entered:",string)
 
 ### **Question:**
 
-> ***Write a program to ask the user to enter the first and second string and start concatenating or appending both the string to form a new string says third string.***
+> ***Write a program to Concatenate Two Strings.***
 
 ---------------------------------------
 
