@@ -115,3 +115,23 @@ string3 = string1 + string2
 print("String after concatenation = ",string3)
 ```
 ----------------------------------------
+
+# Question 7
+
+### **Question:**
+
+> ***Write a program to Check if an item exists in the list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+list_of_items = ["ball", "book", "pencil"]
+item = input("Type item to check: ")
+if item in list_of_items:
+ print("Item exists in the list.")
+else:
+  print("Item does not exist in the list.") 
+```
+----------------------------------------
