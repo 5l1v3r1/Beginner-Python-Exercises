@@ -229,7 +229,7 @@ for i in a:
 
 ### **Question:**
 
-> ***Let's say I give you a list saved in a variable: a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]. Write one line of Python that takes this list 'a' and makes a new list that has only the even elements of this list in it..***
+> ***Let's say I give you a list saved in a variable: a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]. Write one line of Python that takes this list 'a' and makes a new list that has only the even elements of this list in it.***
 
 ---------------------------------------
 
@@ -242,4 +242,24 @@ print(b)
 ```
 ----------------------------------------
 
+# Question 14
+
+### **Question:**
+
+> ***Ask the user for a string and print out whether this string is a palindrome or not (A palindrome is a string that reads the same forwards and backwards).***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a=input("Please enter a word: ")
+c = a.casefold()
+b = reversed(c)
+if list(c) == list(b):
+   print("It is palindrome")
+else:
+   print("It is not palindrome")
+```
+----------------------------------------
 
