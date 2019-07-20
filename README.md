@@ -416,3 +416,23 @@ else:
 		print(-num)
 ```
 ----------------------------------------
+
+# Question 23
+
+### **Question:**
+
+> ***Write a program to Find the length of a String.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+print("Enter 'y' for exit.")
+string = input("Enter a string: ")
+if string == 'y':
+    exit()
+else:
+    print("Length of the string =", len(string))
+```
+----------------------------------------
