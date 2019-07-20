@@ -565,3 +565,23 @@ a = len(list1)
 print(a)
 ```
 ----------------------------------------
+
+# Question 31
+
+### **Question:**
+
+> ***Write a program To calculate the variance and standard deviation of the elements of the array.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import numpy as np
+a= [2,6,8,12,18,24,28,32]
+variance= np.var(a)
+std = np.std(a)
+print(variance)
+print(std)
+```
+----------------------------------------
