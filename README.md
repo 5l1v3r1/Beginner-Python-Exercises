@@ -43,4 +43,23 @@ else:
 ```
 ----------------------------------------
 
+# Question 3
 
+### **Question:**
+
+> ***Write a program to to check whether a number entered by the user is positive, negative or zero.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = int(input("Enter a number: "))
+if a > 0:
+   print("Positive number")
+elif a == 0:
+   print("Zero")
+else:
+   print("Negative number")
+```
+----------------------------------------
