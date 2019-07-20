@@ -515,3 +515,19 @@ print (d)
 ```
 ----------------------------------------
 
+# Question 28
+
+### **Question:**
+
+> ***Write a program To add an item to the end of the list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+list1 = ["pen", "book", "ball"]
+list1.append("bat")
+print(list1)
+```
+----------------------------------------
