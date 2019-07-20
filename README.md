@@ -153,3 +153,31 @@ finalList = list1 + list2
 print(finalList) 
 ```
 ----------------------------------------
+
+# Question 9
+
+### **Question:**
+
+> ***Write a program to Calculate Cube of a Number.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import math 
+a = int(input("Enter a number: "))
+b=math.pow(a,3)
+print (b) 
+```
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
