@@ -5,7 +5,7 @@
 > ***Write a program to Add Two Numbers.***
 
 ---------------------------------------
-**Solution 1: **
+**Solution: **
 
 ```python
 def my_function(a,b):
@@ -15,8 +15,6 @@ d = my_function(1,2)
 print (d)
 ```
 ----------------------------------------
-
-**Solution 2: **
 
 ```python
 def my_function():
