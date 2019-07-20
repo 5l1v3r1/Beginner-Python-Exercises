@@ -135,3 +135,21 @@ else:
   print("Item does not exist in the list.") 
 ```
 ----------------------------------------
+
+# Question 8
+
+### **Question:**
+
+> ***Write a program to Join two or more lists.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+list1 = ["This" , "is", "a", "sample", "program"]
+list2 = [10, 2, 45, 3, 5, 7, 8, 10]
+finalList = list1 + list2
+print(finalList) 
+```
+----------------------------------------
