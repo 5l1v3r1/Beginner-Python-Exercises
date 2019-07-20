@@ -97,3 +97,21 @@ string = input("Enter string: ")
 print("You entered:",string)
 ```
 ----------------------------------------
+
+# Question 6
+
+### **Question:**
+
+> ***Write a program to ask the user to enter the first and second string and start concatenating or appending both the string to form a new string says third string.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+string1 = input("Enter first string to concatenate: ")
+string2 = input("Enter second string to concatenate: ")
+string3 = string1 + string2
+print("String after concatenation = ",string3)
+```
+----------------------------------------
