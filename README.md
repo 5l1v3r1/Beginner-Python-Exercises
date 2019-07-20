@@ -172,7 +172,23 @@ print (b)
 ```
 ----------------------------------------
 
+# Question 10
 
+### **Question:**
+
+> ***Write a program to Calculate Square root of a Number.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import math 
+a = int(input("Enter a number: "))
+b=math.sqrt(a)
+print (b)  
+```
+----------------------------------------
 
 
 
