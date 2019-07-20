@@ -5,8 +5,8 @@
 > ***Write a program to Add Two Numbers.***
 
 ---------------------------------------
----------------------------------------
-**Solution: **
+
+<strong>Solution: </strong>
 
 ```python
 def my_function(a,b):
