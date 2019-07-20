@@ -338,3 +338,20 @@ print(c)
 ```
 ----------------------------------------
 
+# Question 19
+
+### **Question:**
+
+> ***Write a program to split the characters of the given string into a list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+s = "mystring"
+l = list(s)
+print (l)
+```
+----------------------------------------
+
