@@ -47,7 +47,7 @@ else:
 
 ### **Question:**
 
-> ***Write a program to to check whether a number entered by the user is positive, negative or zero.***
+> ***Write a program to check whether a number entered by the user is positive, negative or zero.***
 
 ---------------------------------------
 
@@ -61,5 +61,23 @@ elif a == 0:
    print("Zero")
 else:
    print("Negative number")
+```
+----------------------------------------
+
+# Question 4
+
+### **Question:**
+
+> ***Write a program to display the calendar of a given date.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import calendar
+yy = int(input("Enter year: "))
+mm = int(input("Enter month: "))
+print(calendar.month(yy, mm))
 ```
 ----------------------------------------
