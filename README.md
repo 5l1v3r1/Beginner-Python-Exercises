@@ -81,3 +81,19 @@ mm = int(input("Enter month: "))
 print(calendar.month(yy, mm))
 ```
 ----------------------------------------
+
+# Question 5
+
+### **Question:**
+
+> ***Write a program to ask the user to enter the string and print that string as output of the program.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+string = input("Enter string: ")
+print("You entered:",string)
+```
+----------------------------------------
