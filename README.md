@@ -206,7 +206,23 @@ print([a[0], a[4]])
 ```
 ----------------------------------------
 
+# Question 12
 
+### **Question:**
+
+> ***Take a list, say for example this one: a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89] and write a program that prints out all the elements of the list that are less than 5.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+for i in a:
+    if i < 5:
+        print(i)
+```
+----------------------------------------
 
 
 
