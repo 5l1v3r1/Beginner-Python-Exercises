@@ -494,5 +494,24 @@ for i in range(n):
 ```
 ----------------------------------------
 
+# Question 27
 
+### **Question:**
+
+> ***Write a program To Multiply Two Numbers Using Function.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+def my_function():
+    a = int(input("enter a number: "))
+    b=int(input("enter a number: "))
+    c= a*b
+    return c
+d = my_function()
+print (d)
+```
+----------------------------------------
 
