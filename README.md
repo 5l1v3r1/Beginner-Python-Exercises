@@ -398,3 +398,21 @@ print("The largest number is", largest)
 ```
 ----------------------------------------
 
+# Question 22
+
+### **Question:**
+
+> ***Write a Program to Find Absolute value of a Number.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+num = int(input("Enter a number: "))
+if num >= 0:
+		print(num)
+else:
+		print(-num)
+```
+----------------------------------------
