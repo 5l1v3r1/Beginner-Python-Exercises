@@ -531,3 +531,20 @@ list1.append("bat")
 print(list1)
 ```
 ----------------------------------------
+
+# Question 29
+
+### **Question:**
+
+> ***Write a program To remove an item from the list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+list1 = ["pen", "book", "ball"]
+list1.remove("ball")
+print(list1)
+```
+----------------------------------------
