@@ -300,3 +300,22 @@ file.write("Why? Because we can.")
 file.close()
 ```
 ----------------------------------------
+
+# Question 17
+
+### **Question:**
+
+> ***Write a program to read a file and display its contents on console.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+with open('testfile.txt') as f:
+  	line = f.readline()
+  	while line:
+  		print(line)
+  		line = f.readline()
+```
+----------------------------------------
