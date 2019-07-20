@@ -477,6 +477,22 @@ print(average)
 ----------------------------------------
 
 
+# Question 26
+
+### **Question:**
+
+> ***Write a program to Print a Statement Any Number of Times.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+n = int(input("Please Enter any Number: "))
+for i in range(n):
+    print("hello world")
+```
+----------------------------------------
 
 
 
