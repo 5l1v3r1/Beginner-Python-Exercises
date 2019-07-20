@@ -570,7 +570,7 @@ print(a)
 
 ### **Question:**
 
-> ***Write a program To calculate the variance and standard deviation of the elements of the array.***
+> ***Write a program To calculate the variance and standard deviation of the elements of the list.***
 
 ---------------------------------------
 
