@@ -280,3 +280,23 @@ result = [i for i in set(a) if i in b]
 print(result)
 ```
 ----------------------------------------
+
+# Question 16
+
+### **Question:**
+
+> ***Write a program to add a string to text file.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+file = open("testfile.txt","w") 
+file.write("Hello World") 
+file.write("This is our new text file") 
+file.write("and this is another line.") 
+file.write("Why? Because we can.") 
+file.close()
+```
+----------------------------------------
