@@ -453,3 +453,30 @@ for i in range(1, N+1):
     print (i)
 ```
 ----------------------------------------
+
+
+# Question 25
+
+### **Question:**
+
+> ***Write a program to calculate the sum and average of Natural Numbers from 1 to N.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+N = int(input("Please Enter any Number: "))
+sum = 0
+for i in range(1,N+1):
+  sum = sum + i
+print(sum)
+average = sum / N
+print(average)
+```
+----------------------------------------
+
+
+
+
+
