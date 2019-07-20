@@ -190,7 +190,21 @@ print (b)
 ```
 ----------------------------------------
 
+# Question 11
 
+### **Question:**
+
+> ***Write a program that takes a list of numbers (for example, a = [5, 10, 15, 20, 25]) and makes a new list of only the first and last elements of the given list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = [5, 10, 15, 20, 25]
+print([a[0], a[4]]) 
+```
+----------------------------------------
 
 
 
