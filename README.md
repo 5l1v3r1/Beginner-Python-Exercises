@@ -826,3 +826,19 @@ result = numpy.prod(list)
 print(result) 
 ```
 ----------------------------------------
+
+# Question 45
+
+### **Question:**
+
+> ***Write a program to print ASCII Value of a character.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = 'j'
+print("The ASCII value of '" + a + "' is", ord(a))  
+```
+----------------------------------------
