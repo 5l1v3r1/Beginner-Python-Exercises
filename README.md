@@ -788,12 +788,23 @@ c = int(input('Enter third side: '))
 s = (a + b + c) / 2
 print(s)
 ```
+----------------------------------------
 
 
+# Question 43
 
+### **Question:**
 
+> ***Given a list of numbers, Iterate it and print only those numbers which are divisible of 2.***
 
+---------------------------------------
 
+<strong>Solution: </strong>
 
-
+```python
+List = [10, 20, 33, 46, 55]
+for i in List:
+    if (i % 2 == 0):
+      print(i)
+```
 ----------------------------------------
