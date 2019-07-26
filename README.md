@@ -752,3 +752,48 @@ radian = degree*(pi/180)
 print(radian)
 ```
 ----------------------------------------
+
+
+# Question 41
+
+### **Question:**
+
+> ***Write a program to Generate a Random Number.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import random
+print(random.randint(0,9))
+```
+----------------------------------------
+
+
+# Question 42
+
+### **Question:**
+
+> ***Write a Program to find the semi-perimeter of triangle.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = int(input('Enter first side: '))
+b = int(input('Enter second side: '))
+c = int(input('Enter third side: '))
+s = (a + b + c) / 2
+print(s)
+```
+
+
+
+
+
+
+
+
+----------------------------------------
