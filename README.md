@@ -712,3 +712,25 @@ else:
 	print("Scalene triangle")
 ```
 ----------------------------------------
+
+
+# Question 39
+
+### **Question:**
+
+> ***Write a Python program to sum of two given integers. However, if the sum is between 15 to 20 it will return 20.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = int(input("enter a number: "))
+b = int(input("enter a number: "))
+c= a+b
+if c in range(15, 20):
+        print (20)
+else:
+        print(c) 
+```
+----------------------------------------
