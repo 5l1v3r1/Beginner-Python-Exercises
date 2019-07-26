@@ -671,3 +671,20 @@ string = "myw3schools.com"
 print(string.startswith("w3s"))
 ```
 ----------------------------------------
+
+# Question 37
+
+### **Question:**
+
+> ***Write a Python program to create the multiplication table (from 1 to 10) of a number.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+n = int(input("Enter a number: "))
+for i in range(1,11):
+   print(n,'x',i,'=',n*i)
+```
+----------------------------------------
