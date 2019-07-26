@@ -655,3 +655,19 @@ print(a.upper())
 print(a.lower())
 ```
 ----------------------------------------
+
+# Question 36
+
+### **Question:**
+
+> ***Write a program to check whether a string starts with specified characters.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+string = "myw3schools.com"
+print(string.startswith("w3s"))
+```
+----------------------------------------
