@@ -693,7 +693,7 @@ for i in range(1,11):
 
 ### **Question:**
 
-> ***Write a Python program to check a triangle is equilateral, isosceles or scalene.***
+> ***Write a program to check a triangle is equilateral, isosceles or scalene.***
 
 ---------------------------------------
 
