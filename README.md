@@ -638,3 +638,20 @@ for x in range(6):
     print(x)
 ```
 ----------------------------------------
+
+# Question 35
+
+### **Question:**
+
+> ***Write a program that takes input from the user and displays that input back in upper and lower cases.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+a = input("What's your name? ")
+print(a.upper())
+print(a.lower())
+```
+----------------------------------------
