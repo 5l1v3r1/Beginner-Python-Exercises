@@ -688,3 +688,27 @@ for i in range(1,11):
    print(n,'x',i,'=',n*i)
 ```
 ----------------------------------------
+
+# Question 38
+
+### **Question:**
+
+> ***Write a Python program to check a triangle is equilateral, isosceles or scalene.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+print("Enter lengths of the triangle sides: ")
+a = int(input("a: "))
+b = int(input("b: "))
+c = int(input("c: "))
+if a == b == c:
+	print("Equilateral triangle")
+elif a==b or b==c or c==a:
+	print("isosceles triangle")
+else:
+	print("Scalene triangle")
+```
+----------------------------------------
