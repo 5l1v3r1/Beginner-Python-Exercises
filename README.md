@@ -591,7 +591,7 @@ print(std)
 
 ### **Question:**
 
-> ***Write a Python program to get the difference between the two lists.***
+> ***Write a program to get the difference between the two lists.***
 
 ---------------------------------------
 
@@ -608,7 +608,7 @@ print(list(set(list1) - set(list2)))
 
 ### **Question:**
 
-> ***Write a Python program to select an item randomly from a list.***
+> ***Write a program to select an item randomly from a list.***
 
 ---------------------------------------
 
@@ -618,5 +618,23 @@ print(list(set(list1) - set(list2)))
 import random
 list = ['Paper', 'Pencil', 'Book', 'Bag', 'Pen']
 print(random.choice(list))
+```
+----------------------------------------
+
+# Question 34
+
+### **Question:**
+
+> ***Write a program that prints all the numbers from 0 to 6 except 2 and 6.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+for x in range(6):
+    if (x == 2 or x==6):
+        continue
+    print(x)
 ```
 ----------------------------------------
