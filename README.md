@@ -734,3 +734,21 @@ else:
         print(c) 
 ```
 ----------------------------------------
+
+# Question 40
+
+### **Question:**
+
+> ***Write a program to convert degree to radian.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+pi=22/7
+degree = int(input("Input degrees: "))
+radian = degree*(pi/180)
+print(radian)
+```
+----------------------------------------
