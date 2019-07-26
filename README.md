@@ -585,3 +585,38 @@ print(variance)
 print(std)
 ```
 ----------------------------------------
+
+
+# Question 32
+
+### **Question:**
+
+> ***Write a Python program to get the difference between the two lists.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+list1 = [4, 5, 6, 7]
+list2 = [4, 5]
+print(list(set(list1) - set(list2)))
+```
+----------------------------------------
+
+# Question 33
+
+### **Question:**
+
+> ***Write a Python program to select an item randomly from a list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import random
+list = ['Paper', 'Pencil', 'Book', 'Bag', 'Pen']
+print(random.choice(list))
+```
+----------------------------------------
