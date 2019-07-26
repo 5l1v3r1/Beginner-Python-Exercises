@@ -808,3 +808,21 @@ for i in List:
       print(i)
 ```
 ----------------------------------------
+
+# Question 44
+
+### **Question:**
+
+> ***Write a program to Multiply all numbers in the list.***
+
+---------------------------------------
+
+<strong>Solution: </strong>
+
+```python
+import numpy  
+list = [1, 2, 3]  
+result = numpy.prod(list) 
+print(result) 
+```
+----------------------------------------
