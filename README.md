@@ -842,3 +842,45 @@ a = 'j'
 print("The ASCII value of '" + a + "' is", ord(a))  
 ```
 ----------------------------------------
+</br>
+
+<p> <strong> Books: </strong> </p>
+
+<ul>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(1).pdf" style="text-decoration:none;"> Automate the Boring Stuff with Python: Practical Programming for Total Beginners</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(2).pdf" style="text-decoration:none;">Coding Projects in Python</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(3).pdf" style="text-decoration:none;">Deep Learning with Python</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(4).pdf" style="text-decoration:none;">Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(5).pdf" style="text-decoration:none;">Learn Python in One Day and Learn It Well Python for Beginners with Hands-on Project</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(6).pdf" style="text-decoration:none;">Learning Python </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(7).pdf" style="text-decoration:none;">Python and Tkinter Programming</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(8).pdf" style="text-decoration:none;">Python Crash Course: A Hands-on, Project-based Introduction to Programming</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(9).pdf" style="text-decoration:none;">Python for Data Analysis </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(10).pdf" style="text-decoration:none;">Python Programming for the Absolute Beginner</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(11).pdf" style="text-decoration:none;">Python Tricks: The Book </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(12).pdf" style="text-decoration:none;">A Python Book: Beginning Python, Advanced Python, and Python Exercises</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(13).pdf" style="text-decoration:none;"> Python For Dummies</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(14).pdf" style="text-decoration:none;">Python Tutorial</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(15).pdf" style="text-decoration:none;">Python Programming: An Introduction to Computer Science </a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(16).pdf" style="text-decoration:none;">Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(17).pdf" style="text-decoration:none;">Think Python</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(18).pdf" style="text-decoration:none;">Fluent Python </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(19).pdf" style="text-decoration:none;">Hacking with Python: The Ultimate Beginner's Guide</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Beginner-Python-Exercises/blob/master/yth(20).pdf" style="text-decoration:none;">Natural Language Processing with Python</a></b></li>
+
+
+
+</ul>
